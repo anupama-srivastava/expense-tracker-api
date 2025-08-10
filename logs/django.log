@@ -1,0 +1,11 @@
+INFO 2025-08-10 17:24:30,096 autoreload 7 133263345523584 Watching for file changes with StatReloader
+INFO 2025-08-10 17:35:27,394 autoreload 7 124916180372352 Watching for file changes with StatReloader
+INFO 2025-08-10 17:48:17,558 autoreload 7 123566804474752 Watching for file changes with StatReloader
+INFO 2025-08-10 19:40:02,801 autoreload 7 135137351900032 Watching for file changes with StatReloader
+INFO 2025-08-10 19:54:30,037 autoreload 7 131493773806464 Watching for file changes with StatReloader
+INFO 2025-08-10 20:04:26,597 autoreload 7 131493773806464 /app/apps/expenses/models.py changed, reloading.
+INFO 2025-08-10 20:04:30,244 autoreload 15 128059152407424 Watching for file changes with StatReloader
+INFO 2025-08-10 20:05:19,494 autoreload 15 128059152407424 /app/apps/expenses/serializers.py changed, reloading.
+INFO 2025-08-10 20:05:21,831 autoreload 17 138338142284672 Watching for file changes with StatReloader
+INFO 2025-08-10 20:13:55,578 autoreload 8 136949611735936 Watching for file changes with StatReloader
+INFO 2025-08-10 20:19:06,887 autoreload 6 131748267064192 Watching for file changes with StatReloader
