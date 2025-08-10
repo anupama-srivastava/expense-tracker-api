@@ -305,10 +305,6 @@ docker-compose -f docker-compose.prod.yml exec web python manage.py collectstati
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
-
-For support, email support@expensetracker.com or join our Slack channel.
-
 ## 🗺️ Roadmap
 
 - [ ] Mobile app integration
