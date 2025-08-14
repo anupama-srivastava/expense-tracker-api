@@ -190,7 +190,10 @@ python manage.py runserver
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e790f703674a7b87e628319344bf5370fde6ec39
 ## 🗺️ Roadmap
 
 - [ ] Mobile app integration
